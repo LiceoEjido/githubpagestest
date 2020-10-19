@@ -1,7 +1,7 @@
-![Repository Size](https://img.shields.io/github/repo-size/Catwaii/le-blog?style=flat-square)
-![Language Most Used](https://img.shields.io/github/languages/top/Catwaii/le-blog?style=flat-square)
-[![Last Commit](https://img.shields.io/github/last-commit/Catwaii/le-blog?style=flat-square)](https://github.com/Catwaii/le-blog/commits/)
-[![License](https://img.shields.io/github/license/Catwaii/le-blog?style=flat-square)](LICENSE.md)
+![Repository Size](https://img.shields.io/github/repo-size/Catwaii/le-blog?style=flat)
+![Language Most Used](https://img.shields.io/github/languages/top/Catwaii/le-blog?style=flat)
+[![Last Commit](https://img.shields.io/github/last-commit/Catwaii/le-blog?style=flat)](https://github.com/Catwaii/le-blog/commits/)
+[![License](https://img.shields.io/github/license/Catwaii/le-blog?style=flat)](LICENSE.md)
 <h1 id="title" align="center">Liceo Ejido Official Blog</h1>
 <h4 align="center">Developed with HTML5, CSS and Vue.JS</h4>
 
